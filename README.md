@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F77A&center=true&vCenter=true&random=false&width=435&lines=Hi...+There+!+%F0%9F%91%8B;I+Am+Bhumika+Gupta+%F0%9F%98%8A)](https://git.io/typing-svg)
 <h3 align="center">I'm a passionate MERN Android Developer with a focus on building seamless user experiences across the stack. Leveraging my expertise in both frontend and backend technologies</h3>
