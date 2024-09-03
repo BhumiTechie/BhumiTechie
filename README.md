@@ -2,7 +2,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F77A&center=true&vCenter=true&random=false&width=435&lines=Hi...+There+!+%F0%9F%91%8B;I+Am+Bhumika+Gupta+%F0%9F%98%8A)](https://git.io/typing-svg)
-<h3 align="center">I'm a Passionate MERN Android Developer with a focus on building seamless user experiences across the stack. Leveraging my expertise in both frontend and backend technologies</h3>
+<h3 align="center">I'm a passionate MERN developer focused on building seamless user experiences across the stack. Leveraging my expertise in both frontend and backend technologies, I craft responsive, scalable, and performant web applications. My work spans from designing intuitive, user-friendly interfaces with React, to architecting robust backend solutions with Node.js, Express, and MongoDB. I thrive on solving complex challenges, continuously learning, and optimizing every part of the development process to deliver top-notch digital experiences.</h3>
 
 <img src="https://camo.githubusercontent.com/7b0b31a9d649352b6583905a0150c6ae4bc0c7b722e5cfbb6b28ca0ba01fb22c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" />
 
@@ -35,7 +35,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
