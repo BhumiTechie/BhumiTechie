@@ -43,9 +43,9 @@ Here are some of the projects I've worked on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhumiTechie&layout=compact&theme=radical)
 
 ---
-
 ### 🌱 My Contribution Activity
-![BhumiTechie's contribution graph](https://activity-graph.herokuapp.com/graph?username=BhumiTechie&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb)
+![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=BhumiTechie&theme=radical)
+
 
 
 <!--
