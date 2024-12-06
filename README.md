@@ -31,7 +31,7 @@ I'm a **passionate MERN developer** focused on crafting seamless user experience
 ### 🚀 My Projects
 Here are some of the projects I've worked on:
 - **[Facebook Clone](https://github.com/BhumiTechie/facebook-clone)** - A simple social media app clone with JavaScript.
-- **[Temperature Converter Website](https://github.com/BhumiTechie/Temperature-Convertor-Website)** - Convert temperatures with CSS and JavaScript.
+- **[Temperature Converter Website](https://bhumitechie.github.io/Temprature-Convertor-Website/)** - Convert temperatures with CSS and JavaScript.
 - **[Blockchain Demo](https://github.com/BhumiTechie/blockchain)** - Basic blockchain app using HTML.
 - **[Popcorn](https://github.com/BhumiTechie/popcorn)** - Movie-related web app with CSS.
 - **[Bubble Game](https://github.com/BhumiTechie/BubbleGame)** - Fun bubble-popping game using CSS.
