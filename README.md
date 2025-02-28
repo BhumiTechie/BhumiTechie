@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="50%">
+  <img src="ezgif.com-speed" width="50%">
 </p>
 
 ---
@@ -77,7 +77,7 @@
 
 ## 📬 Let's Connect!
 💬 Feel free to reach out if you want to **collaborate, discuss tech, or just say hi!**  
-📩 **Drop a message:** bhumikagupta@573.com  
+📩 **Drop a message:** bhumikagupta573@gmail.com  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhumika-gupta-223758224"><img src="https://img.shields.io/badge/LinkedIn-Bhumika_Gupta-blue?style=for-the-badge&logo=linkedin"></a>
