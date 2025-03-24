@@ -1,1 +1,53 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F77A&center=true&vCenter=true&random=false&width=600&lines=Hi+There+%F0%9F%91%8B;I'm+Bhumika+Gupta+%F0%9F%98%8A;MERN+%26+Android+Developer;Passionate+About+Seamless+UX)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/BhumiTechie/BhumiTechie/main/ezgif.com-speed.jpg" width="100%" alt="Coding Banner"/>
+
+---
+
+## 👩‍💻 About Me:
+🚀 **MERN Stack Developer** | 💡 **Problem Solver** | 🚀 **Open Source Contributor**
+
+- 🧠 I’m currently working on **Full Stack Web Apps**
+- 🌱 I’m learning **Next.js & TypeScript**
+- 🤝 I’m looking to collaborate on **exciting open-source projects**
+- 🎨 Love **UI/UX Designing** with **Tailwind & Material-UI**
+- 🎮 Fun Fact: *I enjoy playing strategy games & exploring new tech!*
+
+---
+
+## 🌐 Connect With Me:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bhumikagupt) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-gupta-223758224) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhumika)
+
+---
+
+## 🛠️ Languages & Tools:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=android,arduino,aws,blender,bootstrap,c,canvasjs,css,figma,firebase,git,html,illustrator,java,js,kotlin,mongodb,mysql,react,reactnative,sass,tailwind,ts,xd" />
+</p>
+
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhumiTechie&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhumiTechie&layout=compact&theme=radical" width="350"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhumiTechie&theme=radical" />
+</p>
+
+---
+
+## 🌈 Quote to Live By:
+> *"Code is like humor. When you have to explain it, it’s bad."*
+
+---
+
+⭐ **Thanks for visiting! Connect & let’s build something awesome together.**
 
