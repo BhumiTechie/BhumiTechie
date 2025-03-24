@@ -1,17 +1,19 @@
+<!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F77A&center=true&vCenter=true&random=false&width=600&lines=Hi+There+%F0%9F%91%8B;I'm+Bhumika+Gupta+%F0%9F%98%8A;MERN+%26+Android+Developer;Passionate+About+Seamless+UX)](https://git.io/typing-svg)
 
+<!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/BhumiTechie/BhumiTechie/main/ezgif.com-speed.jpg" width="100%" alt="Coding Banner"/>
 
 ---
 
 ## 👩‍💻 About Me:
-🚀 **MERN Stack Developer** | 💡 **Problem Solver** | 🚀 **Open Source Contributor**
+🚀 **MERN Stack Developer** | 💡 **Problem Solver** | 🌟 **Open Source Contributor**
 
-- 🧠 I’m currently working on **Full Stack Web Apps**
-- 🌱 I’m learning **Next.js & TypeScript**
-- 🤝 I’m looking to collaborate on **exciting open-source projects**
-- 🎨 Love **UI/UX Designing** with **Tailwind & Material-UI**
-- 🎮 Fun Fact: *I enjoy playing strategy games & exploring new tech!*
+- 🌱 Currently learning **Next.js & TypeScript**
+- 🔭 Working on **Full Stack Web Apps**
+- 🤝 Collaborating on **Open Source Projects**
+- 🎨 Love **UI/UX Designing** with **TailwindCSS & Material-UI**
+- 🎮 Fun Fact: *I enjoy strategy games & exploring new tech!*
 
 ---
 
@@ -24,7 +26,7 @@
 
 ## 🛠️ Languages & Tools:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=android,arduino,aws,blender,bootstrap,c,canvasjs,css,figma,firebase,git,html,illustrator,java,js,kotlin,mongodb,mysql,react,reactnative,sass,tailwind,ts,xd" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,java,kotlin,androidstudio,figma,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -49,5 +51,6 @@
 
 ---
 
-⭐ **Thanks for visiting! Connect & let’s build something awesome together.**
+⭐ **Thanks for visiting! Let's connect & build something amazing together!**
+
 
