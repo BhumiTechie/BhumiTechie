@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍💻 About Me:
-🚀 ** App Devloper | MERN Stack Developer** | 💡 **Problem Solver** | 🌟 **Open Source Contributor**
+🚀 **App Devloper | MERN Stack Developer** | 💡 **Problem Solver** | 🌟 **Open Source Contributor**
 
 - 🌱 Currently learning **Next.js & TypeScript**
 - 🔭 Working on **Full Stack Web Apps**
