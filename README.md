@@ -44,10 +44,9 @@
   <img src="https://streak-stats.demolab.com/?user=BhumiTechie&theme=radical&hide_border=true" />
 </p>
 
----
 
-## 🌈 Quote to Live By:
-> *"Code is like humor. When you have to explain it, it’s bad!!"*
+
+
 
 ---
 
