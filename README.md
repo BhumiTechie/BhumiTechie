@@ -6,7 +6,7 @@
 
 ---
 
-## 👩‍💻 About Me::
+## 👩‍💻 About Me:
 🚀 **App Developer | MERN Stack Developer | React Native Developer**  
 💡 **Problem Solver | Open Source Contributor | UI/UX Enthusiast**
 
