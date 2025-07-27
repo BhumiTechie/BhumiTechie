@@ -10,7 +10,7 @@
 🚀 **App Developer | MERN Stack Developer | React Native Developer**  
 💡 **Problem Solver | Open Source Contributor | UI/UX Enthusiast**
 
-- 🌱 Currently learning **Next.js & TypeScript**
+
 - 🔭 Working on **Full Stack Web & Mobile Apps**
 - 🤝 Collaborating on **Open Source Projects**
 - 🎨 Love **UI/UX Designing** with **TailwindCSS & Material-UI**
