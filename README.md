@@ -15,7 +15,7 @@
 - 🤝 Collaborating on **Open Source Projects**
 - 🎨 Love **UI/UX Designing** with **TailwindCSS & Material-UI**
 - 📱 Building **Cross-Platform Mobile Apps** with **React Native**
-- 🎮 Fun Fact: *I enjoy strategy games & exploring new tech!*
+- 🎮 Fun Fact: *I enjoy strategy games & exploring new tech!!*
 
 ---
 
