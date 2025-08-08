@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me::
 🚀 **App Developer | MERN Stack Developer | React Native Developer**  
-💡 **Problem Solver | Open Source Contributor | UI/UX Enthusiast**
+💡 **Problem Solver | Open Source Contributor || UI/UX Enthusiast**
 
 
 - 🔭 Working on **Full Stack Web & Mobile Apps**
