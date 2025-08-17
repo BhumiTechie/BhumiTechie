@@ -49,4 +49,4 @@
 
 ---
 
-⭐ **Thanks for visiting! Let's connect & build something amazing together ye!!!!**
+⭐ **Thanks for visiting! Let's connect & build something amazing together ye!**
